@@ -3,6 +3,7 @@
   "displayName": "Quick Open Rails",
   "description": "Quickly opening Rails project files.",
   "publisher": "aki77",
+  "icon": "images/icon.png",
   "version": "0.1.0",
   "engines": {
     "vscode": "^1.37.0"
