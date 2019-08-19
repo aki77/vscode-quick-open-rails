@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.1.2
+
+- Fix activationEvents
+
 ## 0.1.1
 
 - Add icon

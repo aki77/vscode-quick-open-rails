@@ -22,7 +22,8 @@
     "onLanguage:ruby",
     "onLanguage:erb",
     "onLanguage:haml",
-    "onLanguage:slim"
+    "onLanguage:slim",
+    "onCommand:quickOpenRails.open"
   ],
   "main": "./out/extension.js",
   "contributes": {
