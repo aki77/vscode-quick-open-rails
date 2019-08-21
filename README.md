@@ -6,7 +6,7 @@ Quickly opening Rails project files.
 
 `quickOpenRails.open`
 
-![open](https://i.gyazo.com/0c6e778233a5a9664cbc321fc03b5a9f.gif)
+![open](https://i.gyazo.com/d9284e8c399976e8e86f27e3d6257cb4.gif)
 
 ## Extension Settings
 

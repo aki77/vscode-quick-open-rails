@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.2.0
+
+- Improved UX
+
 ## 0.1.2
 
 - Fix activationEvents

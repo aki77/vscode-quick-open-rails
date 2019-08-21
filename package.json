@@ -115,7 +115,6 @@
   },
   "devDependencies": {
     "@types/glob": "^7.1.1",
-    "@types/lodash.flatten": "^4.4.6",
     "@types/mocha": "^5.2.6",
     "@types/node": "^10.12.21",
     "@types/vscode": "^1.37.0",
@@ -126,7 +125,6 @@
     "vscode-test": "^1.0.2"
   },
   "dependencies": {
-    "lodash.flatten": "^4.4.0",
     "sort-on": "^4.1.0"
   }
 }
