@@ -4,7 +4,7 @@
   "description": "Quickly opening Rails project files.",
   "publisher": "aki77",
   "icon": "images/icon.png",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "engines": {
     "vscode": "^1.37.0"
   },
