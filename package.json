@@ -5,6 +5,7 @@
   "publisher": "aki77",
   "icon": "images/icon.png",
   "version": "0.2.1",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.37.0"
   },
