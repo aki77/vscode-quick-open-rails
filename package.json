@@ -120,8 +120,5 @@
     "tslint": "^6.1.3",
     "typescript": "^5.4.5",
     "vscode-test": "^1.0.2"
-  },
-  "dependencies": {
-    "sort-on": "^6.0.0"
   }
 }

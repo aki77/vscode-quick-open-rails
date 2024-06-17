@@ -9,7 +9,6 @@ import {
   Disposable
 } from "vscode";
 import * as path from "path";
-import * as sortOn from "sort-on";
 
 const capitalize = (s: string) => {
   return s.charAt(0).toUpperCase() + s.slice(1);
@@ -46,7 +45,7 @@ export default class Navigator implements Disposable {
     this.quickPick.placeholder = "Select a Category";
     this.quickPick.step = 1;
     this.quickPick.show();
-    this.quickPick.items = sortOn(await this.getCategories(), "label");
+    this.quickPick.items = [...(await this.getCategories())].sort((a, b) => a.label.localeCompare(b.label));
     this.quickPick.busy = false;
   }
 
